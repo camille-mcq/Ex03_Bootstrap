@@ -47,3 +47,26 @@ nav{
 .bg-text{
     background-color: salmon;
 }
+
+/*Book you table now*/
+.youyou{
+    text-align: center;
+    margin-bottom: 40px;
+    color: white;
+}
+.book_me{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+.button_table{
+    background-color: coral;
+    color: white;
+}
+.hey{
+    background-image: url(../img/book-bg.jpg);
+    width: 100%;
+    height: 400px;
+   
+}
